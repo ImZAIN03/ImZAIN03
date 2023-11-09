@@ -9,7 +9,6 @@ Hi there, I am Muhammed Zain.👋<br><br>I am a  Full Stack Developer and an Ope
 # 📊 GitHub Stats: 
 .
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ImZAIN03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImZAIN03&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
