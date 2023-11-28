@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I am Muhammed Zain.👋<br><br>I am a  Full Stack Developer and an Open-source Contributor.<br><br>🔭 I’m currently working on Full-Stack Development.<br><br>🌱 I’m currently learning and also working on new Web Technologies.<br><br>👯 I’m improving my problem-solving skills.
+Hi there, I am Muhammed Zain.<br><br>I am a  Full Stack Developer and an Open-source Contributor.<br><br> I’m currently working on Full-Stack Development.<br><br> I’m currently learning and also working on new Web Technologies.<br><br> I’m improving my problem-solving skills.
 ......
 ## 🌐 Socials:.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mzain03/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-zain2003/)
