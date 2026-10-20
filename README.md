@@ -34,7 +34,7 @@ Currently: Finishing my MS in Cybersecurity at UET Peshawar while growing Zesols
 
 **ML Projects**
 - Video Scene Cut Detector (98.68% accuracy, logistic regression, Flask UI)
-- Fake Currency Detection (CNN TFLite, 4-class classification)
+- Fake Currency Detection (CNN TFLite, 4-class classification) 
 
 ---
 
